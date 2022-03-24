@@ -1,0 +1,11 @@
+{
+  "name": "@globus/design-system",
+  "version": "1.0.0",
+  "type": "module",
+  "devDependencies": {
+    "typescript": "^4.6.2"
+  },
+  "scripts": {
+    "build": "tsc -p ."
+  }
+}

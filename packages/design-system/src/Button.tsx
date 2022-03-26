@@ -5,9 +5,10 @@ export interface ButtonProps extends HTMLAttributes<HTMLButtonElement> {}
 
 const StyledButton = styled.button`
     border: none;
-    background-color: azure;
-    color: blue;
+    background-color: gray;
+    color: black;
     padding: 4px 10px;
+    border: 2px solid red;
 `;
 
 const Button = forwardRef<HTMLButtonElement, ButtonProps>((props, ref) => {
@@ -15,7 +16,7 @@ const Button = forwardRef<HTMLButtonElement, ButtonProps>((props, ref) => {
 
     return (
         <StyledButton {...restProps} ref={ref}>
-            {children}
+            Button v1.2.0
         </StyledButton>
     );
 });

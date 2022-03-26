@@ -3,11 +3,11 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 module.exports = {
   entry: path.resolve(__dirname, './src/index.tsx'),
+  mode: 'production',
   devtool: 'inline-source-map',
   devServer: {
       static: './build',
   },
-  mode: 'development',
   module: {
     rules: [
       {
@@ -31,7 +31,7 @@ module.exports = {
     }
   },
   output: {
-    filename: 'app.[hash].js',
+    filename: 'app.[chunkhash].js',
     path: path.resolve(__dirname, 'build'),
     clean: true,
   }

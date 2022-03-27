@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.14.1](https://github.com/alexandr-kim-vl/test-monorepo/compare/@globus/design-system@1.14.0...@globus/design-system@1.14.1) (2022-03-27)
+
+**Note:** Version bump only for package @globus/design-system
+
+
+
+
+
 # [1.14.0](https://github.com/alexandr-kim-vl/test-monorepo/compare/@globus/design-system@1.13.0...@globus/design-system@1.14.0) (2022-03-27)
 
 

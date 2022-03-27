@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.2](https://github.com/alexandr-kim-vl/test-monorepo/compare/@globus/staffing@1.1.1...@globus/staffing@1.1.2) (2022-03-27)
+
+
+### Bug Fixes
+
+* **staffing:** upgrade version ([669b04d](https://github.com/alexandr-kim-vl/test-monorepo/commit/669b04dd6e98f0a2a6af20ebab87ce1ff5aee81f))
+
+
+
+
+
 ## [1.0.1](https://github.com/alexandr-kim-vl/test-monorepo/compare/@globus/staffing@1.1.1...@globus/staffing@1.0.1) (2022-03-27)
 
 **Note:** Version bump only for package @globus/staffing

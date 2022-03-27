@@ -9,7 +9,12 @@
     "publish": {
       "conventionalCommits": true,
       "registry": "http://localhost:4873/",
-      "yes": true
+      "yes": true,
+      "contents": "build"
+    },
+    "version": {
+      "message": "chore(release): publish %s",
+      "noPrivate": true
     }
   }
 }

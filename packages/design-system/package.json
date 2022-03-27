@@ -25,5 +25,5 @@
     "./build"
   ],
   "types": "build/index.d.ts",
-  "gitHead": "c9cd8cc546af4399ecef6b82b3875666ffae7752"
+  "gitHead": "4be2309e5cc1c16359277f93c23cdbcc8b9e5478"
 }

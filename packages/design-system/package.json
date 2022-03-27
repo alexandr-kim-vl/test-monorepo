@@ -24,5 +24,6 @@
   "files": [
     "./build"
   ],
-  "types": "build/index.d.ts"
+  "types": "build/index.d.ts",
+  "gitHead": "c9cd8cc546af4399ecef6b82b3875666ffae7752"
 }

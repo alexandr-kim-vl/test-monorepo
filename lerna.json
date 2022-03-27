@@ -10,7 +10,7 @@
       "conventionalCommits": true,
       "registry": "http://localhost:4873/",
       "yes": true,
-      "contents": "build"
+      "contents": "build ./package.json"
     },
     "version": {
       "message": "chore(release): publish %s",

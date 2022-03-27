@@ -5,10 +5,22 @@ export interface ButtonProps extends HTMLAttributes<HTMLButtonElement> {}
 
 const StyledButton = styled.button`
     border: none;
-    background-color: gray;
-    color: black;
-    padding: 4px 10px;
-    border: 2px solid red;
+    background-color: #292F36;
+    color: #F7FFF7;
+    padding: 15px 25px;
+    font-size: 24px;
+    border-radius: 8px;
+    cursor: pointer;
+    box-shadow: 0 9px #BBBBBF;
+
+    &:active {
+        box-shadow: 0 5px #85858d;
+        transform: translateY(4px);
+    }
+
+    &:hover, &:active {
+        background-color: #303840;
+    }
 `;
 
 const Button = forwardRef<HTMLButtonElement, ButtonProps>((props, ref) => {
@@ -16,7 +28,7 @@ const Button = forwardRef<HTMLButtonElement, ButtonProps>((props, ref) => {
 
     return (
         <StyledButton {...restProps} ref={ref}>
-            Button v1.7.0
+            Button v1.12.0
         </StyledButton>
     );
 });

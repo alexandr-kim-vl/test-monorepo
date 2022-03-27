@@ -3,7 +3,7 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 module.exports = {
   entry: path.resolve(__dirname, './src/index.tsx'),
-  mode: 'production',
+  mode: 'development',
   devtool: 'inline-source-map',
   devServer: {
       static: './build',
@@ -24,11 +24,7 @@ module.exports = {
     })
   ],
   resolve: {
-    extensions: ['.tsx', '.ts', '.js', '.jsx'],
-    alias: {
-      "react/jsx-dev-runtime": "react/jsx-dev-runtime.js",
-      "react/jsx-runtime": "react/jsx-runtime.js"
-    }
+    extensions: ['.tsx', '.ts', '.js', '.jsx']
   },
   output: {
     filename: 'app.[chunkhash].js',

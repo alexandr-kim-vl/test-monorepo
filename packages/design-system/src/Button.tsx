@@ -28,7 +28,7 @@ const Button = forwardRef<HTMLButtonElement, ButtonProps>((props, ref) => {
 
     return (
         <StyledButton {...restProps} ref={ref}>
-            Button v1.14.0
+            Button v1.15
         </StyledButton>
     );
 });

@@ -1004,6 +1004,11 @@
   resolved "https://registry.yarnpkg.com/@gar/promisify/-/promisify-1.1.3.tgz#555193ab2e3bb3b6adc3d551c9c030d9e860daf6"
   integrity sha512-k2Ty1JcVojjJFwrg/ThKi2ujJ7XNLYaFGNB/bWT9wGR+oSMJHMa5w+CUq6p/pVrKeNNgA7pCqEcjSnHVoqJQFw==
 
+"@globus/design-system@1.19.0":
+  version "1.19.0"
+  resolved "http://localhost:4873/@globus%2fdesign-system/-/design-system-1.19.0.tgz#901305a1f482663a4f465779bcf7eda0eba58415"
+  integrity sha512-ouMjXzbDVa+dPIbpyXni9QfKvGsV5Wv6jAENZGhCoYQxRHai6ZeQFI3B+mfnE0eUzfzj8gLbSQSD6WNF6duTCQ==
+
 "@hutson/parse-repository-url@^3.0.0":
   version "3.0.2"
   resolved "https://registry.yarnpkg.com/@hutson/parse-repository-url/-/parse-repository-url-3.0.2.tgz#98c23c950a3d9b6c8f0daed06da6c3af06981340"

@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.16.0](https://github.com/alexandr-kim-vl/test-monorepo/compare/@globus/design-system@1.15.0...@globus/design-system@1.16.0) (2022-04-05)
+
+
+### Features
+
+* **design-system:** update Button text ([3520efd](https://github.com/alexandr-kim-vl/test-monorepo/commit/3520efdbeab5169770429ee2665d6bbc64d90d39))
+
+
+
+
+
 # [1.15.0](https://github.com/alexandr-kim-vl/test-monorepo/compare/@globus/design-system@1.14.3...@globus/design-system@1.15.0) (2022-03-31)
 
 

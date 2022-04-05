@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.3.0](https://github.com/alexandr-kim-vl/test-monorepo/compare/@globus/staffing@1.2.0...@globus/staffing@1.3.0) (2022-04-05)
+
+
+### Features
+
+* **design-system:** update Button text ([83d103e](https://github.com/alexandr-kim-vl/test-monorepo/commit/83d103e687bac3a6cdb26bfcdbdcbff0b8837ff0))
+
+
+
+
+
 # [1.2.0](https://github.com/alexandr-kim-vl/test-monorepo/compare/@globus/staffing@1.1.3...@globus/staffing@1.2.0) (2022-03-31)
 
 

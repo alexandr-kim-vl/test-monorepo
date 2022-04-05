@@ -25,5 +25,8 @@
     "build"
   ],
   "types": "build/index.d.ts",
-  "gitHead": "5d11325594f61515588faa5465e0f803aa498c6c"
+  "gitHead": "5d11325594f61515588faa5465e0f803aa498c6c",
+  "dependencies": {
+    "nanoid": "^3.3.2"
+  }
 }

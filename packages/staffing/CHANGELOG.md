@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.4.1](https://github.com/alexandr-kim-vl/test-monorepo/compare/@globus/staffing@1.4.0...@globus/staffing@1.4.1) (2022-04-05)
+
+**Note:** Version bump only for package @globus/staffing
+
+
+
+
+
 # [1.4.0](https://github.com/alexandr-kim-vl/test-monorepo/compare/@globus/staffing@1.3.1...@globus/staffing@1.4.0) (2022-04-05)
 
 

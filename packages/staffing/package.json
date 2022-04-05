@@ -1,6 +1,6 @@
 {
   "name": "@globus/staffing",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "private": true,
   "dependencies": {
     "@globus/design-system": "1.19.0",
